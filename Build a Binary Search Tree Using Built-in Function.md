@@ -79,10 +79,10 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT
-```
+
 ![image](https://github.com/user-attachments/assets/9aeb4ccc-ce46-4d6d-9701-51c2cb49b6c4)
 
-```
+
 
 ## RESULT
 Thus, the python program to build a binary search tree using a built-in function has been executed and verified successfully.
